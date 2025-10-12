@@ -1,0 +1,12 @@
+
+
+Some parts are symmetric and used more than 1 time in assembly, So multiple prints are need of these.
+
+
+1. Suspension_joint_Front_sus.STL             -         4 3D prints of this part  
+2. Front_Joint2_Suspension_Romeo003 v3.STL    -         2 3D prints of this part
+
+
+
+Note - 1. Servo_motor_case (need servo motor + Brass Insert threads to calibrate CAD)
+       2. Brass Pivot Rod Holder also needs Brass insets and 15mm Rod to verify
