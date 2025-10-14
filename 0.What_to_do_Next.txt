@@ -1,5 +1,2 @@
-- Brass Inserts : Inserting tolerance verification
-- EM discussion
-- Threads tolerance + verification, CNC
-- Confirm how much length to order for extrusion
-- YT documentation access from Anirudh sir
+- Labeling for Wires
+- YT documentation access from Anirudh sir -- Permission granted -- Keep it listed
