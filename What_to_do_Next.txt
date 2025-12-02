@@ -1,0 +1,5 @@
+1. Bake algorithms and software to control (ROS)
+2. Smoother user experience 
+3. Pillow ball bearings fixation needed
+4. Arm mounting
+5. Drone mounting

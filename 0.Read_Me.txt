@@ -1,7 +1,7 @@
-# Six-Wheeled Rover (Modified JPL Open-Source Rover)
-
 This repository contains the complete design, fabrication files, and electronics documentation for our **custom six-wheeled rover**, inspired by **NASA JPL’s Open-Source Rover**.  
 We have added multiple enhancements such as a **rear tail extension** for drone landing and a **front-mounted robotic arm** for multiple purpose tasks.
+
+# Six-Wheeled Rover (Modified JPL Open-Source Rover) : code name : Romeo007
 
 ---
 
