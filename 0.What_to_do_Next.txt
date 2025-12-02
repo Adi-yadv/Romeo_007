@@ -1,2 +1,3 @@
-- Labeling for Wires
-- YT documentation access from Anirudh sir -- Permission granted -- Keep it listed
+1. Bake algorithms and software to control
+2. Smoother user experience 
+3. Pillow ball bearings fixation needed
